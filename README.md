@@ -1,5 +1,9 @@
 <h1 align="center">🐉 Bathert / Кто я?</h1>
 
+<p align="center">
+  <img src="assets/rat-mouse.gif" width="240" alt="rat mouse meme" />
+</p>
+
 ###
 
 <p align="center">
