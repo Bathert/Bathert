@@ -15,33 +15,10 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="github actions logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo" />
+  <img src="https://img.shields.io/badge/stack-%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D1%83%D0%BC%20%D0%BC%D1%8D%D0%BC-ff69b4?style=for-the-badge" alt="stack: максимум мэм" />
+  <img src="https://img.shields.io/badge/16%D1%87-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-blueviolet?style=for-the-badge" alt="16ч автоматизация" />
+  <img src="https://img.shields.io/badge/8%D1%87-%D1%82%D0%B5%D1%81%D1%82%D1%8B-orange?style=for-the-badge" alt="8ч тесты" />
+  <img src="https://img.shields.io/badge/%D0%B8%D1%82%D0%BE%D0%B3-%D1%80%D1%83%D0%BA%D0%B0%D0%BC%D0%B8-red?style=for-the-badge" alt="итог руками" />
 </div>
 
 ###
