@@ -37,37 +37,94 @@
 
 </div>
 
+<div align="center">
+
+### 📋 Overview
+
+</div>
+
 <table align="center">
+  <tr>
+    <td align="center"><b>Sessions</b><br />269</td>
+    <td align="center"><b>Messages</b><br />14,392</td>
+    <td align="center"><b>Tool calls</b><br />6,699</td>
+    <td align="center"><b>User messages</b><br />1,295</td>
+  </tr>
   <tr>
     <td align="center"><b>Input tokens</b><br />256,896,294</td>
     <td align="center"><b>Output tokens</b><br />2,594,121</td>
-    <td align="center"><b>Active time</b><br />~18.5d</td>
-    <td align="center"><b>Avg session</b><br />~1h 47m</td>
+    <td align="center"><b>Total tokens</b><br />462,270,571</td>
+    <td align="center"><b>Avg msgs/session</b><br />53.5</td>
   </tr>
   <tr>
-    <td align="center"><b>User messages</b><br />1,295</td>
-    <td align="center"><b>Avg msgs/session</b><br />53.5</td>
+    <td align="center"><b>Active time</b><br />~18.5d</td>
+    <td align="center"><b>Avg session</b><br />~1h 47m</td>
     <td align="center"><b>Active days</b><br />16</td>
     <td align="center"><b>Best streak</b><br />16 days</td>
   </tr>
 </table>
 
-<details>
-<summary><b>🧪 Open the basement logs</b></summary>
+<div align="center">
 
 ### 🤖 Models Used
 
-| Model | Sessions | Tokens |
-|---|---:|---:|
-| gpt-5.5 | 74 | 201,402,142 |
-| deepseek-v4-pro | 152 | 193,128,242 |
-| gpt-5.4-mini | 15 | 32,231,838 |
-| deepseek-v4-flash | 10 | 29,044,990 |
-| kimi-k2.6 | 2 | 5,314,368 |
-| gemini-2.5-flash | 2 | 1,148,991 |
-| gpt-5 | 7 | 0 |
-| gemini-3.5-flash | 5 | 0 |
-| gemini-3.1-flash-lite-preview | 2 | 0 |
+</div>
+
+<table align="center">
+  <tr>
+    <th align="left">Model</th>
+    <th align="right">Sessions</th>
+    <th align="right">Tokens</th>
+  </tr>
+  <tr>
+    <td><b>gpt-5.5</b></td>
+    <td align="right">74</td>
+    <td align="right">201,402,142</td>
+  </tr>
+  <tr>
+    <td><b>deepseek-v4-pro</b></td>
+    <td align="right">152</td>
+    <td align="right">193,128,242</td>
+  </tr>
+  <tr>
+    <td><b>gpt-5.4-mini</b></td>
+    <td align="right">15</td>
+    <td align="right">32,231,838</td>
+  </tr>
+  <tr>
+    <td><b>deepseek-v4-flash</b></td>
+    <td align="right">10</td>
+    <td align="right">29,044,990</td>
+  </tr>
+  <tr>
+    <td><b>kimi-k2.6</b></td>
+    <td align="right">2</td>
+    <td align="right">5,314,368</td>
+  </tr>
+  <tr>
+    <td><b>gemini-2.5-flash</b></td>
+    <td align="right">2</td>
+    <td align="right">1,148,991</td>
+  </tr>
+  <tr>
+    <td>gpt-5</td>
+    <td align="right">7</td>
+    <td align="right">0</td>
+  </tr>
+  <tr>
+    <td>gemini-3.5-flash</td>
+    <td align="right">5</td>
+    <td align="right">0</td>
+  </tr>
+  <tr>
+    <td>gemini-3.1-flash-lite-preview</td>
+    <td align="right">2</td>
+    <td align="right">0</td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🧪 Open the basement logs: platforms, tools, skills and streaks</b></summary>
 
 ### 📱 Platforms
 
