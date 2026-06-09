@@ -155,23 +155,6 @@
 | browser_click | 35 | 0.5% |
 | ...and 21 more tools | — | — |
 
-### 🧠 Top Skills
-
-| Skill | Loads | Edits | Last used |
-|---|---:|---:|---|
-| technical-specification-russian | 35 | 0 | Jun 08 |
-| hermes-agent | 33 | 0 | Jun 09 |
-| google-workspace | 22 | 1 | Jun 03 |
-| human-rewriter | 18 | 1 | Jun 09 |
-| obsidian | 15 | 0 | Jun 09 |
-| github-repo-management | 14 | 0 | Jun 09 |
-| moltbot-posting | 6 | 6 | Jun 03 |
-| client-message-rewriter | 8 | 2 | Jun 08 |
-| macos-computer-use | 8 | 0 | Jun 09 |
-| systematic-debugging | 8 | 0 | Jun 09 |
-
-Distinct skills: **51** · Loads: **261** · Edits: **20**
-
 ### 📅 Activity Patterns
 
 ```text
