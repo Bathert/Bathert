@@ -12,6 +12,18 @@
 
 ###
 
+<h2 align="center">Причина меня ненавидить</h2>
+
+<p align="center">
+  <img src="assets/openai-ai-foundations-certificate.png" width="720" alt="OpenAI Academy AI Foundations certificate" />
+</p>
+
+<p align="center">
+  <a href="assets/openai-ai-foundations-certificate.pdf">PDF, если PNG недостаточно раздражает</a>
+</p>
+
+###
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bathert/Bathert/refs/heads/output/github-contribution-grid-snake-dark.svg" />
