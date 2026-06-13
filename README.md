@@ -182,14 +182,22 @@ Peak hours: **11PM** (22), **4PM** (21), **11AM** (19), **12PM** (18), **5PM** (
 
 ###
 
-<h2 align="center">Причина меня ненавидить</h2>
+<h2 align="center">Причины меня ненавидить</h2>
 
 <p align="center">
   <img src="assets/openai-ai-foundations-certificate.png" width="720" alt="OpenAI Academy AI Foundations certificate" />
 </p>
 
 <p align="center">
-  <a href="assets/openai-ai-foundations-certificate.pdf">PDF, если PNG недостаточно раздражает</a>
+  <a href="assets/openai-ai-foundations-certificate.pdf">AI Foundations PDF</a>
+</p>
+
+<p align="center">
+  <img src="assets/openai-applied-ai-foundations-certificate.png" width="720" alt="OpenAI Academy Applied AI Foundations certificate" />
+</p>
+
+<p align="center">
+  <a href="assets/openai-applied-ai-foundations-certificate.pdf">Applied AI Foundations PDF</a>
 </p>
 
 ###
