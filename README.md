@@ -37,6 +37,9 @@
 
 </div>
 
+<details>
+<summary><b>🧪 Open the basement logs: platforms, tools, skills and streaks</b></summary>
+
 <div align="center">
 
 ### 📋 Overview
@@ -122,9 +125,6 @@
     <td align="right">0</td>
   </tr>
 </table>
-
-<details>
-<summary><b>🧪 Open the basement logs: platforms, tools, skills and streaks</b></summary>
 
 ### 📱 Platforms
 
