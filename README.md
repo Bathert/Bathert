@@ -197,5 +197,12 @@ Peak hours: **11PM** (22), **4PM** (21), **11AM** (19), **12PM** (18), **5PM** (
       <a href="assets/openai-applied-ai-foundations-certificate.pdf">Applied AI Foundations PDF</a>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="assets/openai-agents-and-workflows-certificate.png" width="360" alt="OpenAI Academy Agents and Workflows certificate" />
+      <br />
+      <a href="assets/openai-agents-and-workflows-certificate.pdf">Agents and Workflows PDF</a>
+    </td>
+  </tr>
 </table>
 
