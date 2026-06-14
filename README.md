@@ -198,10 +198,15 @@ Peak hours: **11PM** (22), **4PM** (21), **11AM** (19), **12PM** (18), **5PM** (
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="50%">
       <img src="assets/openai-agents-and-workflows-certificate.png" width="360" alt="OpenAI Academy Agents and Workflows certificate" />
       <br />
       <a href="assets/openai-agents-and-workflows-certificate.pdf">Agents and Workflows PDF</a>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/microsoft-learn-ai-agents-achievement.png" width="360" alt="Microsoft Learn achievement: Введение в создание искусственного интеллекта и агентов" />
+      <br />
+      <a href="https://learn.microsoft.com/api/achievements/share/ru-ru/95665885/ABPHT3H7?sharingId=20BD20B2AC8736FD">Microsoft Learn: AI and Agents</a>
     </td>
   </tr>
 </table>
