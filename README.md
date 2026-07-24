@@ -11,15 +11,6 @@
   <a href="https://github.com/Seven-Winds-Studio"><img src="https://img.shields.io/badge/Seven%20Winds%20Studio-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Seven Winds Studio" /></a>
 </p>
 
-## Сейчас в работе
-
-| Направление | Что делаю |
-|---|---|
-| [DragShop](https://github.com/Bathert/DragShop) | Маркетплейс и e-commerce: Next.js, TypeScript, Prisma, PostgreSQL |
-| [SpecGuard](https://github.com/Bathert/specguard-agent) | Проверка спецификаций и AI-пайплайн для разработки |
-| [PM Assistant](https://github.com/Bathert/pm-assistant-agent) | AI-агент для задач проджект-менеджмента |
-| [Hermes](https://github.com/Bathert/hermes-agent-backup) | Локальная агентная среда, автоматизация и память для рабочих процессов |
-
 ## Рабочий стек
 
 <p>
