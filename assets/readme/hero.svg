@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Bathert — Дмитрий Эксузьян</title>
+  <desc id="desc">Профиль PM и Python-разработчика: продукт, автоматизация и AI-системы.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827"/>
+      <stop offset="1" stop-color="#1d2b45"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#60a5fa"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity=".065" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="380" rx="28" fill="url(#surface)"/>
+  <rect width="1200" height="380" rx="28" fill="url(#grid)"/>
+  <circle cx="1070" cy="72" r="150" fill="#60a5fa" fill-opacity=".12"/>
+  <circle cx="1000" cy="342" r="210" fill="#5eead4" fill-opacity=".07"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+    <text x="72" y="78" fill="#8fa3bf" font-size="21" font-weight="700" letter-spacing="3">PRODUCT · CODE · AI SYSTEMS</text>
+    <text x="72" y="166" fill="#f8fafc" font-size="64" font-weight="760">Дмитрий Эксузьян</text>
+    <text x="72" y="215" fill="#cbd5e1" font-size="30" font-weight="500">PM и Python-разработчик. Делаю полезные продукты</text>
+    <text x="72" y="255" fill="#cbd5e1" font-size="30" font-weight="500">и автоматизацию, которая переживает реальный мир.</text>
+  </g>
+  <g transform="translate(72 296)">
+    <rect width="148" height="42" rx="21" fill="#ffffff" fill-opacity=".10"/>
+    <text x="74" y="28" text-anchor="middle" fill="#d9fffb" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700">PM</text>
+    <rect x="160" width="148" height="42" rx="21" fill="#ffffff" fill-opacity=".10"/>
+    <text x="234" y="28" text-anchor="middle" fill="#dbeafe" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700">Python</text>
+    <rect x="320" width="188" height="42" rx="21" fill="#ffffff" fill-opacity=".10"/>
+    <text x="414" y="28" text-anchor="middle" fill="#e0e7ff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700">AI-агенты</text>
+  </g>
+  <g transform="translate(855 112)">
+    <rect width="260" height="154" rx="18" fill="#08111f" fill-opacity=".72" stroke="#ffffff" stroke-opacity=".16"/>
+    <rect x="22" y="23" width="9" height="9" rx="4.5" fill="#5eead4"/>
+    <text x="45" y="31" fill="#9fb2ca" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15">build_context()</text>
+    <path d="M33 60H226M33 91H181M33 122H211" stroke="url(#accent)" stroke-linecap="round" stroke-width="8" opacity=".9"/>
+    <text x="22" y="145" fill="#d1fae5" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">→ shipped</text>
+  </g>
+</svg>
