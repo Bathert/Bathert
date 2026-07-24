@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/hero.svg" width="100%" alt="Bathert — Дмитрий Эксузьян, PM и Python-разработчик: продукты, автоматизация и AI-системы" />
+  <img src="assets/readme/hero.svg" width="100%" alt="Bathert — Дмитрий Эксузьян" />
 </p>
 
 <p align="center">

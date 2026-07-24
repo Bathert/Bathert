@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
   <title id="title">Bathert — Дмитрий Эксузьян</title>
-  <desc id="desc">Профиль PM и Python-разработчика: продукт, автоматизация и AI-системы.</desc>
+  <desc id="desc">Профиль Дмитрия Эксузьяна.</desc>
   <defs>
     <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#101827"/>
@@ -21,10 +21,8 @@
   <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
     <text x="72" y="78" fill="#8fa3bf" font-size="21" font-weight="700" letter-spacing="3">PRODUCT · CODE · AI SYSTEMS</text>
     <text x="72" y="166" fill="#f8fafc" font-size="64" font-weight="760">Дмитрий Эксузьян</text>
-    <text x="72" y="215" fill="#cbd5e1" font-size="30" font-weight="500">PM и Python-разработчик. Делаю полезные продукты</text>
-    <text x="72" y="255" fill="#cbd5e1" font-size="30" font-weight="500">и автоматизацию, которая переживает реальный мир.</text>
   </g>
-  <g transform="translate(72 296)">
+  <g transform="translate(72 218)">
     <rect width="148" height="42" rx="21" fill="#ffffff" fill-opacity=".10"/>
     <text x="74" y="28" text-anchor="middle" fill="#d9fffb" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700">PM</text>
     <rect x="160" width="148" height="42" rx="21" fill="#ffffff" fill-opacity=".10"/>
