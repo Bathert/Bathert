@@ -11,10 +11,6 @@
   <a href="https://github.com/Seven-Winds-Studio"><img src="https://img.shields.io/badge/Seven%20Winds%20Studio-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Seven Winds Studio" /></a>
 </p>
 
-<p align="center">
-  Проектирую цифровые продукты, пишу production-код и строю автоматизацию вокруг реальных процессов.
-</p>
-
 ## Сейчас в работе
 
 | Направление | Что делаю |
