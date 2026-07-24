@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/rat-mouse.gif" width="240" alt="Rat mouse meme" />
+</p>
+
+<p align="center">
   <img src="assets/readme/hero.svg" width="100%" alt="Bathert — Дмитрий Эксузьян, PM и Python-разработчик: продукты, автоматизация и AI-системы" />
 </p>
 
@@ -78,10 +82,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bathert/Bathert/refs/heads/output/github-contribution-grid-snake.svg" />
     <img alt="Анимированная сетка вкладов GitHub" src="https://raw.githubusercontent.com/Bathert/Bathert/refs/heads/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="assets/rat-mouse.gif" width="180" alt="Rat mouse meme" />
 </p>
 
 <p align="center"><sub>Нормальная документация, воспроизводимые проверки и немного контролируемого хаоса.</sub></p>
